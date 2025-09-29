@@ -182,7 +182,9 @@ python main.py
 ### **Authors**
 
 **Assignment:** Fuji Descent Gradient Problem
+
 **Name:** Victor Karisa
+
 **Date:** 29/09/2025
 
 ---
